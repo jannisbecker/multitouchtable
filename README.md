@@ -4,7 +4,7 @@ including softwareside image processing and calibration in OpenCV/jogl,
 and a simple pool game in OpenGL.
 
 ## Introduction
-This project was done with 4 people, Daniel Bannert, Thomas Skowronek, Raffael Balthasar and me, Jannis Becker
+This project was done by 4 people, Daniel Bannert, Thomas Skowronek, Raffael Balthasar and me, Jannis Becker
  in the 3rd semester of "Visual Computing and Design" at the Hochschule Hamm-Lippstadt in Germany.
 The main task was to combine computer vision with computer graphics, thus any project that uses image processing prior
 to show something to the user with 2D/3D computer graphics algorithms.
