@@ -20,9 +20,11 @@ For this code to work, you need the following soft- and hardware assets:
 ## Folder structure
 
 * **source**
-  * **src:** complete java source code including both image processing and computer graphics parts of the project
-  * **bin:** a prebuilt x86 jarfile of the source, which includes the required libraries for the most part (see above)
-  * **doc:** java doc of the source
+  * **src:** Complete java source code including both image processing and computer graphics parts of the 
+project
+  * **bin:** A prebuilt x86 jarfile of the source, which includes the required libraries for the most part (see 
+above)
+  * **doc:** Java doc of the source
 * **media**
   * **productvideo.mp4:** A short video demo of the finished table, the available touch interactions and a bit of gameplay
 * **docs**
