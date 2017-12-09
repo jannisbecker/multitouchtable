@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="states/BowlingTestState.java" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_65 32bit"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JOGL"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/OpenCV 2.4.11"/>
+	<classpathentry kind="lib" path="D:/Workspace/Java/Libraries/vecmath/vecmath-1.5.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://download.java.net/media/java3d/javadoc/1.5.0/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
